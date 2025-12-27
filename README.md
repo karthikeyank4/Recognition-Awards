@@ -2,6 +2,7 @@ Award Recognitions
 Overview
 
 This repository contains screenshots of the awards and recognitions I have received for my exceptional contributions to various projects. These recognitions highlight my dedication, thoroughness, and commitment to excellence in my professional career.
+
 Recognition Highlights
 
 Best Performer Award – Q2 (QA Category) | Colan Infotech
